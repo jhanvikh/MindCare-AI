@@ -56,6 +56,13 @@ Chatbot: Take care of yourself, Goodbye!
 
 ---
 
+## 🎥 Demo Execution
+
+You can [download and watch the demo video here](./demo.mp4) to see how MindCare AI works in real-time. 💬🤖
+
+
+---
+
 
 ## 🚀 Getting Started
 
